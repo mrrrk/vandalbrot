@@ -1,2 +1,0 @@
-# vandalbrot
-Mandelbrot graphics
